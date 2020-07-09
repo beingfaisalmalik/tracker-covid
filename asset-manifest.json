@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/beingfaisalmalik.github.io/tracker-covid/static/css/main.6f5268c3.chunk.css",
+    "main.js": "/beingfaisalmalik.github.io/tracker-covid/static/js/main.1744dc9a.chunk.js",
+    "main.js.map": "/beingfaisalmalik.github.io/tracker-covid/static/js/main.1744dc9a.chunk.js.map",
+    "runtime-main.js": "/beingfaisalmalik.github.io/tracker-covid/static/js/runtime-main.448f25a3.js",
+    "runtime-main.js.map": "/beingfaisalmalik.github.io/tracker-covid/static/js/runtime-main.448f25a3.js.map",
+    "static/js/2.722d449b.chunk.js": "/beingfaisalmalik.github.io/tracker-covid/static/js/2.722d449b.chunk.js",
+    "static/js/2.722d449b.chunk.js.map": "/beingfaisalmalik.github.io/tracker-covid/static/js/2.722d449b.chunk.js.map",
+    "index.html": "/beingfaisalmalik.github.io/tracker-covid/index.html",
+    "precache-manifest.ed4f0cc3215987d2e16692ca49945444.js": "/beingfaisalmalik.github.io/tracker-covid/precache-manifest.ed4f0cc3215987d2e16692ca49945444.js",
+    "service-worker.js": "/beingfaisalmalik.github.io/tracker-covid/service-worker.js",
+    "static/css/main.6f5268c3.chunk.css.map": "/beingfaisalmalik.github.io/tracker-covid/static/css/main.6f5268c3.chunk.css.map",
+    "static/js/2.722d449b.chunk.js.LICENSE.txt": "/beingfaisalmalik.github.io/tracker-covid/static/js/2.722d449b.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/beingfaisalmalik.github.io/tracker-covid/static/media/image.d7265326.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.448f25a3.js",
+    "static/js/2.722d449b.chunk.js",
+    "static/css/main.6f5268c3.chunk.css",
+    "static/js/main.1744dc9a.chunk.js"
+  ]
+}
